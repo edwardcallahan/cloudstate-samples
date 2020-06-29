@@ -1,4 +1,8 @@
 
+DEPRECATED
+
+Use the samples in cloudstateio/samples-* instead
+
 # Cloudstate Sample Applications
 
 ## Prerequisites
