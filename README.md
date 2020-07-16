@@ -1,7 +1,7 @@
 
 DEPRECATED
 
-Use the samples in cloudstateio/samples-* instead
+Use the samples in [cloudstateio/samples](https://github.com/cloudstateio/cloudstate/tree/master/samples) instead
 
 # Cloudstate Sample Applications
 
