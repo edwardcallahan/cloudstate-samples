@@ -1,7 +1,7 @@
 
 DEPRECATED
 
-Use the samples in cloudstateio/samples-* instead
+Use the samples in the cloudstateio samples-* github repos instead.  (e.g. [samples-js-chat](https://github.com/cloudstateio/samples-js-chat) and [samples-java-chat](https://github.com/cloudstateio/samples-java-chat))
 
 # Cloudstate Sample Applications
 
